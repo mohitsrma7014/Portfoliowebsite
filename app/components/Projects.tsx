@@ -23,7 +23,7 @@ const projects = [
     description: "Developed a modern, interactive startup website using Next.js, Node.js, and TypeScript.",
     image: "/placeholder.svg",
     githubLink: "https://github.com/mohitsrma7014/Startupwebsite",
-    liveLink: "https//lavainnovate.vercel.app",
+    liveLink: "https://lavainnovate.vercel.app/",
     technologies: ["Next.js", "Node.js", "TypeScript", "Three.js", "Vercel"],
     challenges: "Implementing 3D UI elements and ensuring smooth performance.",
     solutions: "Utilized Three.js for 3D elements and optimized for performance using Next.js.",
@@ -35,8 +35,11 @@ const projects = [
     description: "Developed a modern, interactive portfolio website using Next.js, Node.js, and TypeScript.",
     image: "/placeholder.svg",
     githubLink: "https://github.com/mohitsrma7014/Portfoliowebsite",
-    liveLink: "https://mohitsharmainfo.vercel.app",
+    liveLink: "https://mohitsharmainfo.vercel.app/",
     technologies: ["Next.js", "Node.js", "TypeScript", "Three.js", "Vercel"],
+    challenges: "Implementing 3D UI elements and ensuring smooth performance.",
+    solutions: "Utilized Three.js for 3D elements and optimized for performance using Next.js.",
+    impact: "Created a visually striking and performant website deployed on Vercel.",
     
   },
   {
